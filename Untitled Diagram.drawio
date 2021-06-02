@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-02T12:30:53.900Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="rZo2kewxp0-kfGRTc8U-" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-02T13:03:43.035Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="Df67hWzPwhIFguoLidKv" version="14.7.3" type="github">
   <diagram id="aGjBzYPCcA2h3IF1zO_B" name="Page-1">
-    <mxGraphModel dx="946" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,6 +50,186 @@
         </mxCell>
         <mxCell id="DoGWMMPVOWEvS4FoPDLW-15" value="100左右的文章&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="505" y="359" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-19" value="1、兴趣的召回" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="540" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DoGWMMPVOWEvS4FoPDLW-20" target="DoGWMMPVOWEvS4FoPDLW-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-20" value="李四" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="540" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-22" value="军事 、政治" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="540" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DoGWMMPVOWEvS4FoPDLW-24" target="DoGWMMPVOWEvS4FoPDLW-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-24" value="xxx军事日报" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="620" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-26" value="军事、政治" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="620" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DoGWMMPVOWEvS4FoPDLW-28" target="DoGWMMPVOWEvS4FoPDLW-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-28" value="xxx新闻" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="710" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-29" value="娱乐、体育" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="710" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-31" value="" style="curved=1;endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="DoGWMMPVOWEvS4FoPDLW-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="650" as="sourcePoint" />
+            <mxPoint x="600" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="630" />
+              <mxPoint x="610" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-32" value="2、兴趣topic召回" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="790" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-33" value="李四" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="790" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DoGWMMPVOWEvS4FoPDLW-34" target="DoGWMMPVOWEvS4FoPDLW-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-34" value="军事相关的文章：9&lt;br&gt;娱乐相关的文章：1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="790" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-35" value="军事：0.9，娱乐：0.1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="790" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DoGWMMPVOWEvS4FoPDLW-37" target="DoGWMMPVOWEvS4FoPDLW-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-37" value="xxx军事日报" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="880" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DoGWMMPVOWEvS4FoPDLW-38" target="DoGWMMPVOWEvS4FoPDLW-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-38" value="军事：0.8，政治：0.1，娱乐：0.1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="880" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DoGWMMPVOWEvS4FoPDLW-40" target="DoGWMMPVOWEvS4FoPDLW-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-40" value="xxx新闻" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="970" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DoGWMMPVOWEvS4FoPDLW-41" target="DoGWMMPVOWEvS4FoPDLW-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-41" value="军事：0.2，政治：0.2，娱乐：0.7" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="970" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-43" value="0.9*0.8+0.1*0.1=0.73" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="880" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-45" value="0.9*0.2+0.1*0.7=0.25" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="970" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-47" value="3、兴趣实体召回" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1080" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DoGWMMPVOWEvS4FoPDLW-48" target="DoGWMMPVOWEvS4FoPDLW-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-48" value="李四" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1080" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DoGWMMPVOWEvS4FoPDLW-49" target="DoGWMMPVOWEvS4FoPDLW-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-49" value="xxx新闻" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1170" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DoGWMMPVOWEvS4FoPDLW-50" target="DoGWMMPVOWEvS4FoPDLW-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-50" value="xxx新闻" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1260" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DoGWMMPVOWEvS4FoPDLW-51" target="DoGWMMPVOWEvS4FoPDLW-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-51" value="迪丽热巴:8，lol:3,刘翔：6" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1080" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DoGWMMPVOWEvS4FoPDLW-53" target="DoGWMMPVOWEvS4FoPDLW-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-53" value="lol:0.1,迪丽热巴：0.6" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1170" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DoGWMMPVOWEvS4FoPDLW-55" target="DoGWMMPVOWEvS4FoPDLW-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-55" value="刘翔：0.3，姚明：0.5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1260" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-57" value="迪丽热巴：0.8，刘翔：0.6，lol:0.3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1080" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-59" value="0.8*0.6+0.3*0.1=0.51" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1170" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-61" value="0.8*0.3=0.18" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1260" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-63" value="4、热门文章召回" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1360" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DoGWMMPVOWEvS4FoPDLW-64" target="DoGWMMPVOWEvS4FoPDLW-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-64" value="李四" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1360" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DoGWMMPVOWEvS4FoPDLW-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="1390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-65" value="体育" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1360" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DoGWMMPVOWEvS4FoPDLW-69" target="DoGWMMPVOWEvS4FoPDLW-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-69" value="xxx体育日报" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1440" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DoGWMMPVOWEvS4FoPDLW-70" target="DoGWMMPVOWEvS4FoPDLW-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-70" value="曝光1000w&lt;br&gt;点击：10w" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1440" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-72" value="ctr:1/100=0.1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1440" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DoGWMMPVOWEvS4FoPDLW-74" target="DoGWMMPVOWEvS4FoPDLW-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-74" value="xxx体育日报" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1530" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DoGWMMPVOWEvS4FoPDLW-75" target="DoGWMMPVOWEvS4FoPDLW-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-75" value="曝光1000w&lt;br&gt;点击：100w" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1530" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DoGWMMPVOWEvS4FoPDLW-77" value="ctr:1/10=0.1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1530" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
